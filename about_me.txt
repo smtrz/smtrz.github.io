@@ -1,0 +1,114 @@
+I am in the process of designing my portfolio website, therefore, for now, I will jot down all the apps and products I have developed till now :
+
+
+**  I have Developed Pakistan’s first Personal tracking solution (TrackMe) and Vehicle Tracking Solution which approximately has 50K+ monthly active users, this app is an easy and secure way to track your loved ones anywhere and everywhere across the world.
+App link:  TPL Trakker - Apps on Google Play
+
+
+Salient Features:
+
+ It has builtin support for Maps such as Google & TPL's own developed maps TPL Maps (https://play.google.com/store/apps/details?id=com.tpl.tplmaps)
+It lets you track your vehicle in real-time, also has an animated Map Replay option that allows the user to retrace the location of a device.
+It also has a feature to show alerts for Speed violations, battery and users can also create geofences, etc
+The app is designed using material design guidelines
+
+My Role :
+
+I developed the complete android app and also the backend architecture of a personal tracking solution using SQL SERVER, TSQL, and WCF C#.
+
+** I Lead the development of Pakistan's first digital insurance app - TPL Insurance , Its one-stop solution for all your general insurance needs.
+
+App Link: https://play.google.com/store/apps/details?id=com.tpl.insuranceapp
+
+Salient Features:
+
+Users can manage multiple policies and claims.
+Users can also track and manage the maintenance of their cars.
+Users have the ability to buy insurance online from the app.
+I was part of the team introducing usage-based motor insurance - First of its kind in Pakistan. If you are a smart driver and follow the rules of the road, you can earn points and use them to avail discounts.
+We also developed SDK for the features of the app to enable other leaders in fin-tech present in Pakistan to integrate our buy insurance module into their apps.
+My Role :
+
+I developed some features and lead to the overall development of the android app with the team. 
+
+
+** I Lead the development of Life insurance app -  Its one-stop solution for all your life insurance needs.
+
+App Link:  TPL Life - Apps on Google Play
+
+		
+TPL Life - Apps on Google Play
+
+
+
+
+
+Salient Features:
+
+Users can manage multiple policies and claims.
+Users have the ability to buy insurance online from the app.
+I was part of the team introducing time-based Life Insurance - First of its kind in Pakistan. .. it enables you to opt for insurance at your preferred time
+My Role :
+
+I developed some features and lead to the overall development of the android app with the team. 
+
+
+Some other projects on which I worked were :
+
+Sales Affiliate app : https://play.google.com/store/apps/details?id=com.app.trakkeraffiliate
+
+Interactive Mobile office: https://play.google.com/store/apps/details?id=com.tpltrakker.imo
+
+Bus Da Pata: it's not on play store but this app lets users track buses in realtime.
+
+Maarkaz : https://play.google.com/store/apps/details?id=com.maarkaz
+
+
+I am also very active in contributing to the open-source community, recently I have also completed the challenge hacktoberfest by the digital ocean (https://hacktoberfest.digitalocean.com/) In the pursuit to open source contribution following are some of my developed projects and libraries which are being used by people around the globe :
+
+ https://github.com/smtrz/GPSTracker-Android
+
+https://github.com/smtrz/UberLikeNavigation-Android
+
+https://github.com/smtrz/NewsFeedApp
+
+https://github.com/smtrz/MVP_architecturalComponents
+
+https://github.com/smtrz/Travel-Mate
+
+
+- meet easy
+
+- quran app
+- homatic
+- technician app
+- building app
+-hoshyaar idea
+-woman enpowerement idea
+- easy resume idea
+- kid secure idea
+- snap ryde idea
+
+
+
+More can viewed on smtrz - Overview
+
+		
+smtrz - Overview
+
+
+
+
+
+
+
+I have my introductory video here :
+
+Tahir Raza | Introduction
+
+Tahir Raza | Introduction
+
+
+
+
+
